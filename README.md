@@ -4,6 +4,9 @@
 Implementación de un **grafo usando listas de adyacencia**, permitiendo representar relaciones entre nodos de forma eficiente.  
 Este ejercicio forma parte de la asignatura de Estructuras de Datos.
 
+<img width="609" height="313" alt="image" src="https://github.com/user-attachments/assets/ce2d116b-3cf5-48a0-a911-cc2a15d5f0f7" />
+
+
 ## 🧩 Funcionalidades
 - Crear nodos del grafo
 - Agregar aristas (dirigidas o no dirigidas)
