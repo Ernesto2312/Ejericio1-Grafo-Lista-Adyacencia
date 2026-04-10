@@ -1,4 +1,4 @@
-package com;
+package com.ejercicio1;
 
 public class Arista {
      int destino, peso;

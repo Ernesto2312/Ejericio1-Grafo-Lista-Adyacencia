@@ -3,7 +3,6 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
-import com.Arista;
 
 public class GrafoLista {
 
